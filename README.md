@@ -64,5 +64,5 @@
   🌟Немного моих работ
 </h3>
 <a href="https://github.com/nethackcom/gulp-website-pioner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=gulp-website-pioner" align=center />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=gulp-website-pioner" />
 </a>

@@ -3,7 +3,11 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   Я Full-stack разработчик!
 </h1>
-Here are some ideas to get you started:
+
+<h3>
+  Обо мне
+</h3>
+Я начал свой путь со школы.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

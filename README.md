@@ -1,5 +1,4 @@
-### Привет👋 Я Full-stack разработчик!
-<h1 align="center">
+<h1>
   Привет
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   Я Full-stack разработчик!

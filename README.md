@@ -3,14 +3,12 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   Я Full-stack разработчик!
 </h1>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=16&duration=1000&pause=4000&color=000000&background=C1FAC0&center=true&vCenter=true&random=false&width=200&height=40&lines=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE+%D0%B8%D1%89%D1%83+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83" alt="Typing SVG" /></a><br/>
-Предложить работу или проект: 
+<b>Предложить работу или проект: </b>
 
 <h3>
-  Немного обо мне 🔥
+  🔥 Немного обо мне
 </h3>
-🚀 Постоянно придумываю, как можно улучшить проекты с которыми работаю <br/>
+✨ Постоянно придумываю, как можно улучшить проекты с которыми работаю <br/>
 🚨 Не боюсь трудных задач <br/>
 ✅ Довожу все дела до конца <br/>
 📈 Постоянно придумываю и пишу pet-проекты для развития своих навыков <br/>
@@ -20,8 +18,17 @@
 
 
 <h3>
-  Стек
+  🚀 Стек
 </h3>
-[![codewars](https://www.codewars.com/users/HomeHack/badges/large)](https://www.codewars.com/users/HomeHack/)
+<p>
+  Front-end: 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 3. Contacts
 4. Projects
+
+<img src="https://www.codewars.com/users/HomeHack/badges/small" />

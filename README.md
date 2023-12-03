@@ -25,7 +25,9 @@
   <li>💬 Общительный и могу поддержать любую тему разговора</li>
 </ul>
 
-<img src="https://www.codewars.com/users/HomeHack/badges/small" />
+<a href="https://www.codewars.com/users/HomeHack">
+  <img src="https://www.codewars.com/users/HomeHack/badges/small" />
+</a>
 
 <h3>
   🚀 Стек

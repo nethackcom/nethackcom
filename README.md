@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 1. About me
 2. Stack
-3. Links
+3. Contacts
 4. Projects

@@ -64,5 +64,5 @@
   🌟Немного моих работ
 </h3>
 <a href="https://github.com/nethackcom/website-pioner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=website-pioner" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=website-pioner" align=center />
 </a>

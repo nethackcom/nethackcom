@@ -16,7 +16,8 @@
 💬 Общительный и могу поддержать любую тему разговора  <br/>
 
 <h3>
-  Мой стек
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+стек)](https://git.io/typing-svg)
+  
 </h3>
 3. Contacts
 4. Projects

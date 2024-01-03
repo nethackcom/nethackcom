@@ -67,5 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=gulp-website-pioner" />
 </a>
 <a href="https://github.com/nethackcom/react-website-dolubovo/tree/master">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=react-website-dolubovo/tree/master" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nethackcom&repo=react-website-dolubovo" />
 </a>
